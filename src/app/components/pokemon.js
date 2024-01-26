@@ -1,6 +1,6 @@
 "use client"
 import Image from "next/image";
-import style from './caterpie.module.css'
+import style from './pokemon.module.css'
 import {useEffect, useState} from "react";
 
 function Pokemon(){
