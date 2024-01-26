@@ -38,13 +38,13 @@ function Pokemon(){
             </div>
 
         <div className={style.descrip}>
-            <p className={style.acer}>{"Type=" + tipo}</p>
+            <p className={style.acer}>{"Typess=" + tipo}</p>
             <p className={style.acer}>{"Height="+tamaño +"m"}</p>
             <p className={style.acer}>{"Weight="+peso +"kg"}</p>
             <p className={style.acer}>{"Abilities="+ habilidades}</p>
 
             <br />
-            <p className={style.acer}>{"Vida="+ vida}</p>
+            <p className={style.acer}>{"HP="+ vida}</p>
 
          </div>
         </div>

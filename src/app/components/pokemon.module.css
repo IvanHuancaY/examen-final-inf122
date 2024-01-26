@@ -41,6 +41,7 @@ text-align: end;
     
     border-radius: 2.5rem 2.5rem 0rem 0rem;
     background: #FFF;
+    text-transform: capitalize;
 }
 
 .acer{
@@ -52,5 +53,5 @@ text-align: start;
     font-weight: 600;
     line-height: normal;
     grid-template-rows: repeat(2,1fr);
-    text-transform: capitalize;
+    
 }
