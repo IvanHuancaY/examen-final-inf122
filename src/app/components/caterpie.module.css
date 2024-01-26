@@ -1,0 +1,56 @@
+.contenedor img{
+    border-radius: 50%;
+    object-fit: cover;
+    width: 20.3125rem;
+    height: 20.3125rem;
+    flex-shrink: 0;
+}
+.pok{
+    color: #393939;
+    font-family: Poppins;
+    font-size: 1.375rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.nomb{
+    color: #26367C;
+
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.num{
+    color: #7480B2;
+
+font-family: Poppins;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-align: end;
+}
+
+.descrip{
+    width: 23.4375rem;
+    height: 26.5rem;
+    flex-shrink: 0;
+    
+    border-radius: 2.5rem 2.5rem 0rem 0rem;
+    background: #FFF;
+}
+
+.acer{
+    color: #393939;
+text-align: start;
+    font-family: Poppins;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    grid-template-rows: repeat(2,1fr);
+    text-transform: capitalize;
+}
