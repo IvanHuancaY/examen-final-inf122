@@ -4,7 +4,9 @@ import { useEffect, useState } from "react";
 
 function Pokemon(){
     const [pokemon, setPokemon]=useState("vercel.sg");
-    
+    <div>
+        
+    </div>
     return(
 
     );
